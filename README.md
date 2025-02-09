@@ -2,6 +2,7 @@
 As part of learning to code,I completed a project that involved creating a basic Netflix clone built using HTML, CSS, and JavaScript. It utilizes the TMDB API and YouTube Search API to fetch and display movie and TV show data.
 
 Features-
+
 Movie and TV show data: The project uses the TMDB API and YouTube Search API to fetch and display movie and TV show data. Users can browse through a collection of popular movies and TV shows, search for specific titles, and view trailers.
 
 User-friendly interface: The project features a clean and intuitive user interface that makes it easy to navigate and search for content. The design is also responsive, adapting to different screen sizes and devices.
